@@ -1,0 +1,1 @@
+echo "# DevBeans-StarterKit-develop" >>
